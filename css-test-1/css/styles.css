@@ -1,0 +1,38 @@
+h1 {
+  border: 10px solid #FFAAFF;
+  text-align: left;
+  color: #FFFFAA;
+}
+
+#loool {
+  color: #AAFFAA;
+}
+
+#divtest {
+  color: #AAFFFF;
+  border: 120px solid #BBAAFF;
+}
+
+#loool2 {
+  color: #FFAAAA;
+  font: 150px "Comic Sans MS";
+}
+
+#example1 {
+  width: 40%;
+  border:3px;
+  border-style:solid; 
+  border-color:#FF0000; 
+  padding: 1em;
+  background-image: url("../gifs/test.gif");
+  background-position: center;
+  background-repeat: repeat;
+  background-size: 100% 100%;
+  
+}
+
+
+img {
+	
+	
+}
